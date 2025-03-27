@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+.env
+.venv/
+
+# Data
+/data/metadata.db
+/data/faiss.index
+/data/compressed/
+/data/images/
+
+# Misc
+*.log
+.DS_Store
